@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(1, 88, 114);
+    font-family: "Merriweather Sans", sans-serif;
+}
+
+.container{
+    background-color: rgb(4, 74, 96);
+    box-shadow: 0 2px 4px rgb(44, 44, 44);
+    margin: 0 auto;
+    max-width: 60%;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2, p{
+    color: white;
+}
+
+input[type="text"]{
+    font-size: 16px;
+    padding: 10px;
+    width: 70%;
+}
+
+button{
+    background-color: rgb(0, 166, 255);
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+#resonseData{
+    font-size: 18px;
+    margin-top: 20px;
+}
